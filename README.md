@@ -16,7 +16,7 @@ pronouns: "he" | "him",
 ```
 ## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
 
-[<img width='50' height='50' src="https://user-images.githubusercontent.com/64153988/134053455-cf3aa416-e192-4d79-a3e6-e229b340dbb1.png"/>](https://www.linkedin.com/in/Abhinav0909/)
+[<img width='50' height='50' src="https://user-images.githubusercontent.com/64153988/134053455-cf3aa416-e192-4d79-a3e6-e229b340dbb1.png"/>](https://www.linkedin.com/in/abhinav-karforma-04218619a/)
 <br />
 
 
