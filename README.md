@@ -7,9 +7,10 @@ pronouns: "he" | "him",
 	tools: [React, Bootstrap,Next,Express,MongoDb],  
 	platform:[VS Code, Postman],
 	techCommunities: {  
-		clubMembers:"Alexa Dev Srm ,TechAnalogy"  
+		clubMembers:"Alexa Dev Srm ,Guvi Srm" ,
+		Internships:"TechAnalogy,Collabbi,CyberXplore"
 	},  
-	askMeAbout: ["Web Development"]  
+	askMeAbout: ["Software Developer"]  
 }  
 
 ```
