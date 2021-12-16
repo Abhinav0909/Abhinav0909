@@ -3,17 +3,23 @@
 ```JavaScript
 const abhinav = {  
 pronouns: "he" | "him",  
-	code: [Java, C, C++, Javascript, HTML, TailwinddCSS,TypeScript,React,Node],  
-	tools: [React, Bootstrap,Next,Express,MongoDb],  
+	code: [Java, C, C++, Javascript, HTML, TailwinddCSS,TypeScript,React,Node,CSS],  
+	tools: [React, Bootstrap,Next,Express,MongoDb,Rest Api,Sql,Git,Redux,Material UI],  
 	platform:[VS Code, Postman],
 	techCommunities: {  
 		clubMembers:"Alexa Dev Srm ,Guvi Srm" ,
 		Internships:"TechAnalogy,Collabbi,CyberXplore"
 	},  
-	askMeAbout: ["Software Developer"]  
+	askMeAbout: ["Software Development"] 
 }  
 
 ```
+## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
+
+[<img width='50' height='50' src="https://user-images.githubusercontent.com/64153988/134053455-cf3aa416-e192-4d79-a3e6-e229b340dbb1.png"/>](https://www.linkedin.com/in/Abhinav0909/)
+<br />
+
+
 <p align="center">
   <img src="https://octodex.github.com/images/twenty-percent-cooler-octocat.png" height="230" width="230"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhinav0909&theme=neon-dark"/>
