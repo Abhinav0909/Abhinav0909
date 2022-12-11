@@ -4,7 +4,7 @@
 const abhinav = {  
 pronouns: "he" | "him",  
 	code: [Java, C, C++, Javascript, HTML, TailwinddCSS,TypeScript,React,Node,CSS],  
-	tools: [React, Bootstrap,Node,Express,MongoDb,Rest Api,Sql,Git,Redux,Material UI,Graphql,AWS],  
+	tools: [React, Bootstrap,Express,MongoDb,Rest Api,Sql,Git,Redux,Material UI,Graphql,AWS],  
 	platform:[VS Code, Postman,Mongosh],
 	techCommunities: {  
 		clubMembers:"Alexa Dev Srm ,Guvi Srm" ,
