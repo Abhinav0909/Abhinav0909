@@ -3,7 +3,8 @@
 ```JavaScript
 const abhinav = {  
 pronouns: "he" | "him",  
-	code: [Java, C, C++, Javascript, Python, HTML, TailwinddCSS,TypeScript,React,Node,CSS],  
+	code: [Java, C, C++, C#, Javascript, Python, HTML, TailwinddCSS,TypeScript,React,Node,CSS,TeradataSql,Mysql],
+	OS: ["Windows","Linux","Unix"]
 	tools: [React, Bootstrap,Express,MongoDb,Rest Api,Sql,Git,Redux,Material UI,Graphql,AWS],  
 	platform:[VS Code, Postman,Mongosh,JIRA],
 	techCommunities: {  
