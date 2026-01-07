@@ -3,14 +3,15 @@
 ```JavaScript
 const abhinav = {  
 pronouns: "he" | "him",  
-	code: [Java, C, C++, Javascript, HTML, TailwinddCSS,TypeScript,React,Node,CSS],  
+	code: [Java, C, C++, Javascript, Python, HTML, TailwinddCSS,TypeScript,React,Node,CSS],  
 	tools: [React, Bootstrap,Express,MongoDb,Rest Api,Sql,Git,Redux,Material UI,Graphql,AWS],  
-	platform:[VS Code, Postman,Mongosh],
+	platform:[VS Code, Postman,Mongosh,JIRA],
 	techCommunities: {  
 		clubMembers:"Alexa Dev Srm ,Guvi Srm" ,
-		Internships:"TechAnalogy,Collabbi,CyberXplore"
+		Internships:"TechAnalogy,Collabbi,CyberXplore",
+        Company: "Barclays"
 	},  
-	askMeAbout: ["Software Development"] 
+	askMeAbout: ["Software Development","ML Enthusiast"] 
 }  
 
 ```
