@@ -3,7 +3,7 @@
 ```JavaScript
 const abhinav = {  
 pronouns: "he" | "him",  
-	code: [Java, SpringBoot, Spring Data, Kafka, Redis, TWS, Javascript, Python, vLLM, HTML,Node,TeradataSql,Mysql],
+	code: [Java, SpringBoot, Spring Data, Kafka, Redis, TWS, Javascript, Python, vLLM, HTML,Node,Teradata(SQL),Mysql],
 	OS: ["Windows","Linux","Unix"]
 	tools: [React,Express,MongoDb,Rest Api,Sql,Git,Graphql],  
 	platform:[VS Code, Postman,Mongosh,JIRA, Jupyter,SSIS],
